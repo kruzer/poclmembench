@@ -4,8 +4,8 @@
 
 **poclmemebench** benchmarks amd gpu memory, works on platforms:
 
-*   Linux
-*   MacOS
+*	Linux
+*	MacOS
 *	Windows
 
 Project inspired by delphi OclMemBench by duzenko [https://github.com/duzenko/OpenclMemBench](https://github.com/duzenko/OpenclMemBench "github")  
@@ -16,7 +16,7 @@ Project inspired by delphi OclMemBench by duzenko [https://github.com/duzenko/Op
 Standalone **executables** for _Linux_, _macOS_ and _Windows_ are provided in
 the [Releases] section.
 Download an archive for your operating system and unpack the content to a place
-accessible from command line. The ethminer is ready to go.
+accessible from command line. 
 
 ## Usage
 
