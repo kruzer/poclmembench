@@ -29,7 +29,7 @@ For a full list of available command, please run
 poclmembench --help
 ```
 
-### Building from source
+## Build
 
 This project uses [CMake].
 
@@ -45,13 +45,14 @@ mkdir build; cd build
 cmake ..
 ```
 
-3. Build the project using [CMake Build Tool Mode]. This is a portable variant
-   of `make`.
+3. Build the project using CMake. This is a portable variant of `make`.
 
 ```sh
 cmake --build .
 ```
    
 
-#example
-[](url "title") 
+## example
+```sh
+poclmembench -p 0 -d 0
+```
