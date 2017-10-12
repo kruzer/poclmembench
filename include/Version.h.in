@@ -1,0 +1,2 @@
+#define poclmembench_VERSION_MAJOR @poclmembench_VERSION_MAJOR@
+#define poclmembench_VERSION_MINOR @poclmembench_VERSION_MINOR@

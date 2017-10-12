@@ -1,0 +1,8 @@
+build/
+/Release/
+.cproject
+.project
+.settings/
+compile_commands.json
+.DS_Store
+*.xcodeproj

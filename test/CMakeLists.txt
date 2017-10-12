@@ -1,0 +1,7 @@
+set(Boost_USE_STATIC_LIBS ON)
+find_package(Boost REQUIRED COMPONENTS unit_test_framework program_options)
+include_directories("${PROJECT_SOURCE_DIR}/include" ${Boost_INCLUDE_DIRS})
+set(TEST_SOURCES ${PROJECT_SOURCE_DIR}/test/ProgramOptions_test.cpp ${PROJECT_SOURCE_DIR}/src/ProgramOptions.cpp )
+add_executable(ProgramOptions_test ${TEST_SOURCES})
+target_link_libraries(ProgramOptions_test  Boost::unit_test_framework Boost::program_options)
+add_test(NAME ProgramOptions_test COMMAND ProgramOptions_test)
