@@ -56,3 +56,8 @@ cmake --build .
 ```sh
 poclmembench -p 0 -d 0
 ```
+![Linux Screeenshot](img/ScreenshotLin.png?raw=true "Linux Screenshot")
+![MacOS Screeenshot](img/ScreenshotMac.png?raw=true "MacOS Screenshot")
+![Windows Screeenshot](img/ScreenshotWin.png?raw=true "Windows Screenshot")
+
+
