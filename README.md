@@ -14,7 +14,7 @@ Project inspired by delphi OclMemBench by duzenko [https://github.com/duzenko/Op
 ## Install
 
 Standalone **executables** for _Linux_, _macOS_ and _Windows_ are provided in
-the [Releases] section.
+the [Releases](https://github.com/kruzer/poclmembench/releases) section.
 Download an archive for your operating system and unpack the content to a place
 accessible from command line. 
 
@@ -56,3 +56,8 @@ cmake --build .
 ```sh
 poclmembench -p 0 -d 0
 ```
+![Linux Screeenshot](img/ScreenshotLin.png?raw=true "Linux Screenshot")
+![MacOS Screeenshot](img/ScreenshotMac.png?raw=true "MacOS Screenshot")
+![Windows Screeenshot](img/ScreenshotWin.png?raw=true "Windows Screenshot")
+
+
