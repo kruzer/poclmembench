@@ -1,9 +1,3 @@
-/*
- * OclEngine.cpp
- *
- *  Created on: 28 wrz 2017
- *      Author: mikey
- */
 #include <iostream>
 #include <iomanip>
 #include <fstream>

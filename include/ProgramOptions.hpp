@@ -1,10 +1,3 @@
-/*
- * ProgramOptions.h
- *
- *  Created on: 27 wrz 2017
- *      Author: mikey
- */
-
 #ifndef PROGRAMOPTIONS_H_
 #define PROGRAMOPTIONS_H_
 #include <boost/program_options.hpp>

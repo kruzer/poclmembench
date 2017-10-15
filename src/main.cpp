@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  TimeBench
-//
-//  Created by Maciej Stawicki on 16.09.2017.
-//  Copyright © 2017 Maciej Stawicki. All rights reserved.
-//
 #include <iostream>
 #include <iomanip>
 #include <cmath>

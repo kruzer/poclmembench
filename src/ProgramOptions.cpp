@@ -1,9 +1,3 @@
-/*
- * ProgramOptions.cpp
- *
- *  Created on: 27 wrz 2017
- *      Author: mikey
- */
 #include <iostream>
 #include "ProgramOptions.hpp"
 #include "Version.h"

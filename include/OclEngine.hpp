@@ -1,10 +1,3 @@
-/*
- * OclEngine.h
- *
- *  Created on: 28 wrz 2017
- *      Author: mikey
- */
-
 #ifndef OCLENGINE_H_
 #define OCLENGINE_H_
 #include <boost/program_options.hpp>
